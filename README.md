@@ -1,5 +1,4 @@
 # Chatroom Project
-
 This project is a simple chatroom application built using PHP, MySQL, HTML, CSS, and JavaScript. It allows users to sign up, log in, and chat with each other in real-time.
 
 ## Features
